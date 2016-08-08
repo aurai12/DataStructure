@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class InsertionSort {
 
 	public static void main(String[] args) {
-		int[] array = { 46, 40, 32, 24, 16, 20, 50, 7 };
+		int[] array = { 46, 40, 32, 24, 16, 20, 24, 50, 7 };
 
 		for (int i = 1; i < array.length; i++) {
 			int element = array[i];
